@@ -10,7 +10,7 @@ import { ProductCategories } from './components/ProductCategories';
 function HomePage() {
   return (
     <>
-      <Hero />
+      {/*  <Hero /> */}
       <Stats />
       <OnlineOrderingPromo />
       <ProductCategories />
